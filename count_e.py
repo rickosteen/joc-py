@@ -1,4 +1,5 @@
 #count-e to count the number of e's in a string
+#file now being tracked on git
 def count_e():
     char1_in = str(input("Type in your word or phrase: "))
     lwr=[]
