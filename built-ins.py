@@ -1,0 +1,1 @@
+import pprint then  pprint.pprint(dir(__builtins__), compact=True)  gives a terse list of builtins.
